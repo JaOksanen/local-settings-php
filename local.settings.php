@@ -12,7 +12,7 @@ $conf['securepages_enable'] = FALSE;
 $conf['https'] = FALSE;
 
 // Stage File Proxy Configuration
-$conf['stage_file_proxy_origin'] = 'http://pharmacademy.org';
+$conf['stage_file_proxy_origin'] = 'http://yoursite.com';
 // Stage file optional with securepages
 // $conf['stage_file_proxy_origin'] = 'http://username:password@mysite.com';
 $conf["stage_file_proxy_use_imagecache_root"] = FALSE;
